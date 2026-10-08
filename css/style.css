@@ -11,9 +11,9 @@
   --couleur-fond: #ffffff;
   --couleur-fond-clair: #f5f3fa;
   --couleur-texte: #1c2333;
-  --couleur-texte-doux: #5b6478;
+  --couleur-texte-doux: #1b4194;
   --couleur-principale: #6b35a5;
-  --couleur-bordure: #e2ddeb;
+  --couleur-bordure: #360f80;
 
   /* Typographie */
   --police: "Inter", Arial, sans-serif;
@@ -412,4 +412,26 @@ a {
   color: var(--couleur-texte-doux);
 
   background-color: var(--couleur-fond);
+}
+
+
+/* ---------- Style page À propos ---------- */
+
+.titre-centre {
+  text-align: center;
+  font-size: 24px !important;
+  margin-bottom: 24px;
+}
+
+.texte-centre {
+  text-align: center;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+/* Espacement entre les sections */
+
+.section {
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
