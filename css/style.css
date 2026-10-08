@@ -256,10 +256,10 @@ a {
 
 .competences {
   display: flex;
-
   flex-wrap: wrap;
-
+  justify-content: center;
   gap: 16px;
+  margin-top: 32px;
 }
 
 
@@ -434,4 +434,50 @@ a {
 .section {
   padding-top: 80px;
   padding-bottom: 80px;
+}
+
+/* ===== PAGE À PROPOS ===== */
+
+/* Espace blanc entre les sections */
+
+.page-Apropos .section {
+  margin-bottom: 36px;
+  padding: 60px 0;
+}
+
+/* Background violet clair */
+
+.page-Apropos .section--claire {
+  background-color: #f5f3fa;
+}
+
+/* Titres des parties */
+
+.page-Apropos .titre-partie {
+  color: var(--couleur-principale);
+  font-size: 24px;
+  margin-bottom: 28px;
+}
+
+/* Titres au centre */
+
+.page-Apropos .titre-centre {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+/* Paragraphes centrés */
+
+.page-Apropos .texte-centre {
+  text-align: center;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+/* Compétences centrées */
+
+.page-Apropos .competences {
+  justify-content: center;
+  margin-top: 32px;
 }
