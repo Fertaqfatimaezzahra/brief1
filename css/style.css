@@ -16,7 +16,7 @@
   --couleur-bordure: #360f80;
 
   /* Typographie */
-  --police: "Inter", Arial, sans-serif;
+ --police: "Inter", Arial, sans-serif;
 
   /* Mise en page */
   --largeur-max: 1100px;
@@ -480,4 +480,47 @@ a {
 .page-Apropos .competences {
   justify-content: center;
   margin-top: 32px;
+}
+
+ .isometra-regular {
+  font-family: "Isometra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.bitcount-ink11 {
+  font-family: "Bitcount Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+}
+
+.bitcount-ink {
+  font-family: "Bitcount Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
 }
