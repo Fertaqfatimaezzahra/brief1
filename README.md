@@ -1,17 +1,32 @@
-# Portfolio — modèle de départ
+# Portfolio — Fertaq Fatima Ezzahra
 
-Site d'une seule page en HTML5 et CSS3, point de départ du Brief 1 (Sprint 1).
+## Présentation
+Portfolio personnel réalisé dans le cadre de ma formation en Développement Web et Web Mobile.
 
-## Contenu
+## Technologies utilisées
+HTML5, CSS3, Flexbox, CSS Grid, Figma, Git et GitHub.
 
-- `index.html` : la page unique (présentation, compétences, projets, contact)
-- `css/style.css` : la feuille de style
-- `images/` : les images provisoires, à remplacer par les vôtres
+## Pages du site
+- **Accueil** : présentation personnelle.
+- **Projets** : Railway Manager, SmartFilaha, Site vitrine et Portfolio personnel.
+- **À propos** : parcours, compétences et objectifs.
+- **Contact** : formulaire et réseaux professionnels.
 
-## Pour commencer
+## Modifications réalisées
+- Personnalisation du contenu et des couleurs.
+- Création de quatre pages HTML.
+- Organisation des projets avec CSS Grid.
+- Amélioration du formulaire de contact.
+- Ajout des liens GitHub et LinkedIn.
 
-1. Faites un fork de ce dépôt, puis clonez votre fork.
-2. Ouvrez `index.html` dans votre navigateur.
-3. Suivez les étapes du brief : modifier, séparer, manipuler, créer.
+## Maquette Figma
+[Ajouter le lien Figma]
 
-Remplacez ce fichier par le README de votre propre portfolio.
+## Captures d'écran
+- ![Accueil](captures/accueil.png)
+- ![Projets](captures/projets.png)
+- ![À propos](captures/apropos.png)
+- ![Contact](captures/contact.png)
+
+## Auteur
+**Fertaq Fatima Ezzahra**
