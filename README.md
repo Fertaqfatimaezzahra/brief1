@@ -20,13 +20,7 @@ HTML5, CSS3, Flexbox, CSS Grid, Figma, Git et GitHub.
 - Ajout des liens GitHub et LinkedIn.
 
 ## Maquette Figma
-[Ajouter le lien Figma]
-
-## Captures d'écran
-- ![Accueil](captures/accueil.png)
-- ![Projets](captures/projets.png)
-- ![À propos](captures/apropos.png)
-- ![Contact](captures/contact.png)
+https://www.figma.com/design/bwovJXYG0ZltXPysKAVnR4/Portfolio?node-id=0-1&t=Xqw0DpqkvGgXQ8EK-1
 
 ## Auteur
-**Fertaq Fatima Ezzahra**
+Fertaq Fatima Ezzahra
